@@ -1,8 +1,6 @@
 {
   "latest": "1.0.0",
   "1.0.0": {
-    "downloadPath": "https://raw.githubusercontent.com/segrid/SeGridRouter-releases/main/jars/segrid-controller-latest.jar",
-    "fileName": "SeGrid-Router-1.0.0.jar",
-    "startCommand": "/usr/bin/java -jar SeGrid-Router-1.0.0.jar"
+    "downloadPath": "https://raw.githubusercontent.com/segrid/SeGridRouter-releases/main/jars/segrid-controller-latest.jar"
   }
 }
