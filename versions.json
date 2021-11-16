@@ -1,5 +1,8 @@
 {
-  "latest": "1.0.1_SNAPSHOT",
+  "latest": "1.0.2_SNAPSHOT",
+  "1.0.2_SNAPSHOT": {
+    "downloadPath": "https://github.com/segrid/SeGridRouter/releases/download/v1.0.2_SNAPSHOT/SeGridRouter-1.0.2_SNAPSHOT.jar"
+  },
   "1.0.1_SNAPSHOT": {
     "downloadPath": "https://github.com/segrid/SeGridRouter/releases/download/1.0.1_SNAPSHOT/SeGridRouter-1.0.1_SNAPSHOT.jar"
   },
