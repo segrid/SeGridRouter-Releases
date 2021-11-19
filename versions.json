@@ -2,17 +2,5 @@
   "latest": "1.0.5_SNAPSHOT",
   "1.0.5_SNAPSHOT": {
     "downloadPath": "https://raw.githubusercontent.com/segrid/SeGridRouter-Releases/main/builds/SeGridRouter-1.0.5_SNAPSHOT.jar"
-  },
-  "1.0.3_SNAPSHOT": {
-    "downloadPath": "https://raw.githubusercontent.com/segrid/SeGridRouter-Releases/main/builds/SeGridRouter-1.0.3_SNAPSHOT.jar"
-  },
-  "1.0.2_SNAPSHOT": {
-    "downloadPath": "https://github.com/segrid/SeGridRouter/releases/download/v1.0.2_SNAPSHOT/SeGridRouter-1.0.2_SNAPSHOT.jar"
-  },
-  "1.0.1_SNAPSHOT": {
-    "downloadPath": "https://github.com/segrid/SeGridRouter/releases/download/1.0.1_SNAPSHOT/SeGridRouter-1.0.1_SNAPSHOT.jar"
-  },
-  "1.0.0": {
-    "downloadPath": "https://raw.githubusercontent.com/segrid/SeGridRouter-releases/main/jars/segrid-controller-latest.jar"
   }
 }
