@@ -1,5 +1,8 @@
 {
-  "latest": "1.0.7",
+  "latest": "1.0.9",
+  "1.0.9": {
+    "setup": "IyEvYmluL2Jhc2gKc3VkbyBta2RpciAtcCAvaG9tZS9zZWdyaWQKc3VkbyBjdXJsIC1MIGh0dHBzOi8vZ2l0aHViLmNvbS9zZWdyaWQvU2VHcmlkUm91dGVyLVJlbGVhc2VzL3Jhdy9tYWluL2J1aWxkcy9TZUdyaWRSb3V0ZXItMS4wLjkgLW8gL2hvbWUvc2VncmlkL1NlR3JpZFJvdXRlcgpzdWRvIGNobW9kIHUreCAgL2hvbWUvc2VncmlkL1NlR3JpZFJvdXRlcgpzdWRvIHNlcnZpY2UgU2VHcmlkUm91dGVyIHJlc3RhcnQ="
+  },
   "1.0.7": {
     "setup": "IyEvYmluL2Jhc2gKc3VkbyBta2RpciAtcCAvdXNyL2xvY2FsL2JpbgpzdWRvIGN1cmwgLUwgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NlZ3JpZC9TZUdyaWRSb3V0ZXItUmVsZWFzZXMvbWFpbi9idWlsZHMvU2VHcmlkUm91dGVyLTEuMC43LmphciAtbyAvdXNyL2xvY2FsL2Jpbi9TZUdyaWRSb3V0ZXIuamFyCmNkIC9ob21lL3VidW50dQpzdWRvIC91c3IvYmluL2phdmEgLURjbG91ZFByb3ZpZGVyPWF3cyAtamFyIC91c3IvbG9jYWwvYmluL1NlR3JpZFJvdXRlci5qYXIK"
   },
